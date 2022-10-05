@@ -34,12 +34,10 @@ Report.
 
 
 ## 3.TOOLS AND INFO
-
- 	Still looking for tools. 
+Still looking for tools. 
 
 ## 4.INSTALLATION GUIDE
-
-  To be updated.
+To be updated.
 
 
 ## 5. MILESTONES DETAILS
